@@ -1,0 +1,3 @@
+apt-get install -y deploy
+deploy moodle
+deploy moodle password=5Z4SAq2U28rWyVz
